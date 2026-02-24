@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-👨‍💻 **1.5+ Years of Experience** in Web & Mobile Application Development  
+👨‍💻 **1.5 Years of Experience** in Web & Mobile Application Development  
 🔭 Building scalable and responsive web & mobile applications  
 📱 Specialized in **React.js**, **Redux**, **React Native** & **Node.js**  
 🗄️ Proficient with **MongoDB** for database management  
