@@ -51,7 +51,6 @@
 - 🔗 **LinkedIn**: [linkedin.com](https://www.linkedin.com/in/samir-jadav-1653812a0)
 - 🌐 **Portfolio**: [Samir Jadav](https://samir-jadav-portfolio.netlify.app/)
 - 📧 **Email**: [samirjadav271@gmail.com](mailto:samirjadav271@gmail.com)
-- 💻 **GitHub**: [github.com/SamirJadav](https://github.com/samirgithubjd)
 
 ---
 
